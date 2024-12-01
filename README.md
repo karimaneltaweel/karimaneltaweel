@@ -1,16 +1,20 @@
 ## Hi there 👋
+<h2>👩‍💻 iOS Engineer | Passionate About Building Seamless Mobile Experiences</h2>
 
-<!--
-**karimaneltaweel/karimaneltaweel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Hi there! I'm <strong>Kariman Eltaweel.</strong></h3>
+<p>iOS engineer with a strong focus on creating clean, maintainable, and user-centric applications. With expertise in <strong>Swift</strong>, <strong>UIKit</strong>, and <strong>SwiftUI</strong>, I enjoy solving complex problems and delivering intuitive mobile solutions.</p>
 
-Here are some ideas to get you started:
+<h2>🔧 Core Skills:</h2>
+<ul>
+  <li>iOS Development (Swift, SwiftUI, UIKit)</li>
+  <li>Dependency Management (CocoaPods, Swift Package Manager)</li>
+  <li>Architecture Patterns (MVC, MVVM, VIPER)</li>
+  <li>RESTful APIs & Networking</li>
+  <li>Performance Optimization & Debugging</li>
+</ul>
+<h2>🚀 Fun Fact:</h2>
+<p>I’m always on the lookout for creative ways to enhance user experience with beautiful UI and functional designs.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📫 Let’s Connect:</h2>
+<p>Feel free to reach out via GitHub Issues or <a href="https://www.linkedin.com/in/kariman-eltaweel-45734a252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">LinkedIn</a> for collaboration or a quick chat!</p>
+
